@@ -1,6 +1,6 @@
 # Portfolio Web Application
 
-This is a portfolio web application built using HTML and CSS. It showcases my  work, skills, and provides a way for potential clients or employers to learn more about me and my projects. <a href="https://harshkashyapportfolio.netlify.app/">View the website</a>
+This is a portfolio web application built using HTML and CSS. It showcases my  work, skills, and provides a way for potential clients or employers to learn more about me and my projects.
 
 ## Features
   
